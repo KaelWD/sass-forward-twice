@@ -1,0 +1,6 @@
+@forward './variables';
+@use './variables' as *;
+
+.v-list-item {
+  --debug: #{$list-variable};
+}

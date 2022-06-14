@@ -1,0 +1,4 @@
+@use 'vuetify' with (
+  $list-variable: 'override',
+  $tabs-variable: 'override',
+);

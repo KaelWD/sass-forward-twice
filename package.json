@@ -1,0 +1,14 @@
+{
+  "name": "sass-forward-twice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass main.scss dist/main.css"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.52.3"
+  }
+}
